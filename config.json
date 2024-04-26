@@ -1,0 +1,26 @@
+{
+    "api_id": "23331005",
+    "api_hash": "d9b47bdad01387ed8f01daa76ed62517",
+    "grupos_a_evitar": [-4101070311, -4126791797, -4148107382, -4157545058, -4112641822, -4196338568, -4152755903],
+    "grupo_origen_id1": -4101070311,
+    "tu_numero_telefono1": "+51912875835",
+    "grupo_origen_id2": -4126791797,
+    "tu_numero_telefono2": "+51903364246",
+    "grupo_origen_id3": -4148107382,
+    "tu_numero_telefono3": "+51929273358",
+    "grupo_origen_id4": -4157545058,
+    "tu_numero_telefono4": "+51904718006",
+    "grupo_origen_id5": -4112641822,
+    "tu_numero_telefono5": "+51908740686",
+    "grupo_origen_id6": -4196338568,
+    "tu_numero_telefono6": "+51919557711",
+    "grupo_origen_id7": -4152755903,
+    "tu_numero_telefono7": "+51919693545",
+    "grupo_origen_id8": -4148107382,
+    "tu_numero_telefono8": "+51907276061",
+    "grupo_origen_id9": -4148107382,
+    "tu_numero_telefono9": "+51907276061",
+    "grupo_origen_id10": -4148107382,
+    "tu_numero_telefono10": "+51907276061"
+  }
+  
